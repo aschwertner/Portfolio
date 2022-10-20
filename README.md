@@ -1,10 +1,14 @@
-# Portfólio de projetos
+# Portfólio (pt-br)
 
-**Olá! Seja bem-vindo!**
+**Olá! Bem-vindo!**
 
-Este é um repositório de projetos de Ciência de Dados, Aprendizagem de Máquina e Otimização.
+Este é um repositório de projetos de Data Science, Machine Learning e Otimização. Os projetos são desenvolvidos em linguagem Python, Julia ou R.
 
-Os projetos apresentados estão separados por área, abrangendo desde aplicações financeiras à problemas do setor industrial.
+# Portfolio (en)
+
+**Hello! Welcome!** 
+
+This is a repository of Data Science, Machine Learning, and Optimization projects. The projects are develop in Python, Julia, or R language.
 
 ##
 
