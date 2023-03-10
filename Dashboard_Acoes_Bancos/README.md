@@ -19,5 +19,3 @@ Todos os dados apresentados são reais e obtidos diretamente do Yahoo Finance, a
 Este projeto foi construído com base nas aulas disponibilizadas pelo [Data Viking](https://www.youtube.com/@DataVikingx), no evento Semana de Soluções com Python.
 
 ##
-
-![](/imagens/screenshot_bb.png)
